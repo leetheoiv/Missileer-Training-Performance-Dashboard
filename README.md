@@ -6,7 +6,7 @@ To address the lack of structured performance tracking within a high-readiness o
 
 The solution was initially designed for one squadron and later scaled to serve the entire group. By providing leadership with monthly insights into which simulations had the lowest success rates, the team could proactively design new training scenarios targeting key weaknesses.
 
-> **Note:** Due to this being a project I developed for my work in the Air Force, no actual data is shared with limited screenshots. This write-up focuses on process, tools, and impact.
+> **Note:** Due to this being a project I developed for my work in the Air Force, no actual data or links are provided for the actual products. This write-up focuses on process, screenshots, tools, and impact.
 
 ---
 
